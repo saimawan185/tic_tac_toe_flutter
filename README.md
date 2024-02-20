@@ -4,7 +4,7 @@ A Tic Tac Toe Flutter Game.
 
 ## Getting Started
 
-Tic Tac Toe Multiplayer Game in Flutter with Firebase Firestore
+**Tic Tac Toe Multiplayer Game in Flutter with Firebase Firestore**
 Welcome to the #Flutter Tic Tac Toe game, built with Firebase Firestore Database for seamless multiplayer functionality. This project enables two players to engage in a thrilling #TicTacToe match over a network, each playing from different devices.
 
 ## Features:
