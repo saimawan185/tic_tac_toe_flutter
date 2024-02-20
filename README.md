@@ -26,6 +26,6 @@ Feel free to contribute, provide feedback, or customize the game to suit your pr
 
 ## Contact Information:
 
-Email: awanmsaim182@gmail.com
-Phone: +923164168178
-LinkedIn: Muhammad Saim
+Email: awanmsaim182@gmail.com\n
+Phone: +923164168178\n
+LinkedIn: https://www.linkedin.com/in/muhammad-saim-5bab731bb/
