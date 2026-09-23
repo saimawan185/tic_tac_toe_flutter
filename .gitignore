@@ -41,3 +41,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+android/.gradle/
+android/.kotlin/
+android/build/
+
+# Firebase — configure your own project (do not commit secrets)
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase_app_id_file.json
+lib/firebase_options.dart
